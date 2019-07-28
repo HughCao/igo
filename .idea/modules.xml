@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/i-go-basic-parent/i-go-basic-parent.iml" filepath="$PROJECT_DIR$/i-go-basic-parent/i-go-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-go-basic-parent/i-go-basic-util/i-go-basic-util.iml" filepath="$PROJECT_DIR$/i-go-basic-parent/i-go-basic-util/i-go-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-go-config-server/i-go-config-server.iml" filepath="$PROJECT_DIR$/i-go-config-server/i-go-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-go-eureka/i-go-eureka.iml" filepath="$PROJECT_DIR$/i-go-eureka/i-go-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-go-parent.iml" filepath="$PROJECT_DIR$/i-go-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-go-plat-parent/i-go-plat-interface/i-go-plat-interface.iml" filepath="$PROJECT_DIR$/i-go-plat-parent/i-go-plat-interface/i-go-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-go-plat-parent/i-go-plat-parent.iml" filepath="$PROJECT_DIR$/i-go-plat-parent/i-go-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-go-plat-parent/i-go-plat-service/i-go-plat-service.iml" filepath="$PROJECT_DIR$/i-go-plat-parent/i-go-plat-service/i-go-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/i-go-zuul/i-go-zuul.iml" filepath="$PROJECT_DIR$/i-go-zuul/i-go-zuul.iml" />
+    </modules>
+  </component>
+</project>

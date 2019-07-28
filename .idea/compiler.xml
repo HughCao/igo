@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="i-go-basic-util" />
+        <module name="i-go-config-server" />
+        <module name="i-go-eureka" />
+        <module name="i-go-plat-interface" />
+        <module name="i-go-plat-service" />
+        <module name="i-go-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="i-go-basic-parent" target="8" />
+      <module name="i-go-basic-util" target="8" />
+      <module name="i-go-config-server" target="8" />
+      <module name="i-go-eureka" target="8" />
+      <module name="i-go-parent" target="8" />
+      <module name="i-go-plat-interface" target="8" />
+      <module name="i-go-plat-parent" target="8" />
+      <module name="i-go-plat-service" target="8" />
+      <module name="i-go-zuul" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
